@@ -1,0 +1,33 @@
+.use-ref-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+  }
+  
+  .input-box {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .input-box:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  .render-count {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .render-count strong {
+    color: #007bff;
+  }
+  

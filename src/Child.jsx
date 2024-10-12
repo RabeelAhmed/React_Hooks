@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { AppContext } from '../components/contextApi/useContext';
+import { AppContext } from '../components/contextApi/UseContext';
 
 export default function Child() {
   const userData = useContext(AppContext); // Access userData properties correctly

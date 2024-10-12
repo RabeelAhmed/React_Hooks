@@ -1,0 +1,56 @@
+/* Style for the counter container */
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.para span {
+    color: rgb(22, 22, 122);
+}
+
+.counter-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 2rem;
+  }
+  
+  /* Styling for the buttons */
+  .buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .increment-button {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .increment-button:hover {
+    background-color: #45a049;
+  }
+  
+  .decrement-button {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .decrement-button:hover {
+    background-color: #da190b;
+  }
+  
