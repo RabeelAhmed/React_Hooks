@@ -20,7 +20,7 @@ Each hook is demonstrated with simple, clean examples to showcase their usage an
 - Effective state management using `useReducer` and `useState` ⚙️
 - Real-life scenarios using `useEffect` and `useLayoutEffect` for side effects 🔄
 
-Feedback & Suggestions 📬
+## **Feedback & Suggestions** 📬
 If you have any queries, suggestions, or feedback, feel free to reach out to me!
 
 Contact Me:
